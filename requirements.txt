@@ -1,0 +1,10 @@
+ultralytics
+transformers
+pillow
+numpy
+scipy
+jupyterlab
+cv2
+json
+os
+tqdm
